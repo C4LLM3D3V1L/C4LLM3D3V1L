@@ -1,42 +1,18 @@
-
-
-<!--
-**C4LLM3D3V1L/C4LLM3D3V1L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 ### Hi there 👋, my name is Adnan Adif Hisham
-
 #### HI I AM A NOOB AND ALSO COPY PASTE CODER
-
-![HI I AM A NOOB AND ALSO COPY PASTE CODER](https://github.com/C4LLM3D3V1L/TORNANIRHEDA_BOMBER/blob/main/screen-20220529-185812.mp4)
+![HI I AM A NOOB AND ALSO COPY PASTE CODER](https://github.com/C4LLM3D3V1L/TORNANIRHEDA_BOMBER/blob/main/Screenshot_20220525-210933.jpg)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
 Skills: JS / HTML / CSS / PYTHON
 
 - 🔭 I’m currently working on this site. 
-
 - 🌱 I’m currently learning PYTHON 
-
 - 🤔 I’m looking for help with ANYONE 
-
 - 💬 Ask me about What are you know? 
-
 - 📫 How to reach me: https://www.facebook.com/C4LL.M3.D3V1L 
-
 - ⚡ Fun fact: I AM COPY PASTE CODER 
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/C4LLM3D3V1L)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/C4LL.M3.D3V1L)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://adnanadifhisham.blogspot.com/)  
 
